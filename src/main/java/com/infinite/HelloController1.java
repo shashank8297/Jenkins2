@@ -8,4 +8,6 @@ public class HelloController1 {
 	{
 		return "viewpage1";
 	}	
+
 }
+
